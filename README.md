@@ -4,7 +4,7 @@
 *[1.Intro](https://github.com/LitzyDiaz0/clonacionGoogle/edit/main/README.md#1intro)
 *[2.Qué construí](https://github.com/LitzyDiaz0/clonacionGoogle/edit/main/README.md#2qu%C3%A9-constru%C3%AD)
 *[3.Objetivo del proyecto](https://github.com/LitzyDiaz0/clonacionGoogle/edit/main/README.md#3-objetivo-del-proyecto)
-*[4.Link al demo](https://github.com/LitzyDiaz0/clonacionGoogle/edit/main/README.md#4-link-a-demo)
+*[4.Link al demo](https://github.com/LitzyDiaz0/clonacionGoogle/blob/main/README.md#4-link-a-demo)
 ****
 ## 1.Intro
 HTML5 traaja de la mano con CSS3 para crear páginas web que usamos todos los días en el navegado. Incluso este sitio web en donde he
