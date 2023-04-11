@@ -23,4 +23,4 @@ Contiene las siguientes secciones:
 Clonación de Google hecho en Tecnológicas PRO
 
 ## 4. Link a demo: 
-Aqui puedes visualizar el proyecto terminado: https://venerable-banoffee-19a3e2.netlify.app/
+Aqui puedes visualizar el proyecto terminado: https://venerable-clonaciongoogle-19a3e2.netlify.app/
